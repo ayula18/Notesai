@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+openai
+whisper
+torch
+requests
+beautifulsoup4
